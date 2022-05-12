@@ -31,12 +31,12 @@
 
 ## Overview
 
-Our stakeholder is the biggest real estate investment firm in the United States, Annaly Capital Management, and they have hired our team at AM to determine which cities with big tech companies’ presence in the country represent good potential investment opportunities. We will use time series forecasting to analyze the median sale price for 10 cities in the countries to determine the 5 cities with the highest predicted return.
+Our stakeholder is the biggest real estate investment firm in the United States, Keller Williams Realty, and they have hired our team at AM to determine which cities with big tech companies’ presence in the country represent good potential investment opportunities. We will use time series forecasting to analyze the median sale price for 10 cities in the countries to determine the 5 cities with the highest predicted return.
 
 
 ## Business Problem
 
-Our team was hired by Annaly Capital Management, a real estate investment firm, to use time series forcasting to predict the best cities to make real estate investments in.  The cities we chose were on a list of the top 10 cities for technology jobs.  
+Our team was hired by Keller Williams Realty, a real estate investment firm, to use time series forcasting to predict the best cities to make real estate investments in.  The cities we chose were on a list of the top 10 cities for technology jobs.  
 
 
 ## Data
