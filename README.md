@@ -89,6 +89,10 @@ The risk and return trade-off is better in other cities with significantly lower
  
 There is a good balance to the 5 cities we have suggested here that should hedge against itself. San Jose, Boston, and New York are well established cities with not a lot of buildable land left. Just owning real estate in these cities will ensure that values will give consistent returns. However, Baltimore and Los Angeles have more land that could give huge returns if invested in and renovated properly. The trick would be doing this in a manner that does not feel to be undermining the affordability, culture, or diversity of these neighborhoods as is often the case. These rennovations must not feel gaudy, but seemless and at home with the current residents. Another more ethically straightforward, but politically challenging idea is looking into building more dense housing in the suburbs with multiplexes or townhouses. These projects often run into obstacles, but as NIMBY culture becomes less popular and zoning reform progresses, new investment opportunities should arise.
 
+### Information
+Check out our [notebook](https://github.com/aliceagrawal/Zillow-Time-Series-Modeling/blob/main/Final_Notebook-Top-5-Cities.ipynb) for a more thorough discussion of our project, as well as our [presentation](link).
+
+
 ### Next Steps
 
 There are several steps that could be taken to give even more value if we had the funding. While our model performed quite well, it was evaluated on test data that was consistently a bull market. If the market was bear or particularly volatile, it is unlikely that the model would perform as well. This is particularly seen with the prediction for Chicago market. Because Chicago was in a short term slump in our most recent data points, this market shrinkage was projected to continue for the next three years. Designing a model that could differentiate volatility changes as opposed to structural market failures could allow for much better predictions.
@@ -111,7 +115,6 @@ Finally, since this data has been recorded, much has changed in the real estate 
  ├── figures
  ├── Final_Notebook-Top-5-Cities.ipynb
  ├── README.md
- ├── README Project description.md
  └── Presentation.pdf
   
 ```
