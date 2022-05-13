@@ -90,7 +90,7 @@ The risk and return trade-off is better in other cities with significantly lower
 There is a good balance to the 5 cities we have suggested here that should hedge against itself. San Jose, Boston, and New York are well established cities with not a lot of buildable land left. Just owning real estate in these cities will ensure that values will give consistent returns. However, Baltimore and Los Angeles have more land that could give huge returns if invested in and renovated properly. The trick would be doing this in a manner that does not feel to be undermining the affordability, culture, or diversity of these neighborhoods as is often the case. These rennovations must not feel gaudy, but seemless and at home with the current residents. Another more ethically straightforward, but politically challenging idea is looking into building more dense housing in the suburbs with multiplexes or townhouses. These projects often run into obstacles, but as NIMBY culture becomes less popular and zoning reform progresses, new investment opportunities should arise.
 
 ### Information
-Check out our [notebook](https://github.com/aliceagrawal/Zillow-Time-Series-Modeling/blob/main/Final_Notebook-Top-5-Cities.ipynb) for a more thorough discussion of our project, as well as our [presentation](link).
+Check out our [notebook](https://github.com/aliceagrawal/Zillow-Time-Series-Modeling/blob/main/Final_Notebook-Top-5-Cities.ipynb) for a more thorough discussion of our project, as well as our [presentation](https://github.com/aliceagrawal/Zillow-Time-Series-Modeling/blob/main/Zillow-home-price-forecasts.pdf).
 
 
 ### Next Steps
