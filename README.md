@@ -72,7 +72,7 @@ We used an ARIMA model to forecast the average house price in 10 cities. We scor
 
 Our RMSE score for our final model was approximately $33,500 compared to our baseline RMSE which was $118,000.
 
-<img src= "figures/Origina vs Prediced.jpeg">
+<img src= "figures/Original vs Prediced.jpeg">
 
 ## Conclusion 
 
