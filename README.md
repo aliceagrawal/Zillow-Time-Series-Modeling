@@ -49,6 +49,9 @@ We obtained the data used in our time series analysis from a Zillow API. It meas
 
 We used an ARIMA model to forecast the average house price in 10 cities. WE used ACF and PACF to build the model. We score the model predictions using explained variance and root mean squared error. 
 
+![forecast_return](https://user-images.githubusercontent.com/100230332/168319294-1d747003-3f7c-42e9-b57a-8f47d15bea60.png)
+
+
 ## Next Steps
 
 For our next steps, we would dig deeper into the years that were affected by COVID-19 and analyze how the pandemic affected the housing market. We would also make a model that includes outside variables, such as the school district, housing density, or the income of the residents.  We would try running our data through a Long-Short Term Memory neural network that could find patterns hidden to our current model. 
