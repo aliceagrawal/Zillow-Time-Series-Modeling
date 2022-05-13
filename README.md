@@ -70,6 +70,6 @@ For our next steps, we would dig deeper into the years that were affected by COV
  ├── starter_notebook.ipynb
  ├── README.md
  ├── README Project description.md
- └──Presentation.pdf
+ └── Presentation.pdf
   
 ```
