@@ -51,11 +51,11 @@ We used an ARIMA model to forecast the average house price in 10 cities. WE used
 
 <img src= "figures/forecast_return.jpeg">
 
-<img src= "median_income_home.jpg">
+<img src= "median_income_home.png">
 
-<img src= "price_overtime.jpg">
+<img src= "price_overtime.png">
 
-<img src= "price_overtime_background.jpg">
+<img src= "price_overtime_background.png">
 
 
 ## Next Steps
