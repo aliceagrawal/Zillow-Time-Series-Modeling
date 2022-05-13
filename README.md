@@ -49,8 +49,7 @@ We obtained the data used in our time series analysis from a Zillow API. It meas
 
 We used an ARIMA model to forecast the average house price in 10 cities. WE used ACF and PACF to build the model. We score the model predictions using explained variance and root mean squared error. 
 
-![forecast_return](https://user-images.githubusercontent.com/100230332/168319294-1d747003-3f7c-42e9-b57a-8f47d15bea60.png)
-
+![forecast_return](https://user-images.githubusercontent.com/100230332/168319423-d7184c6b-4eac-4930-929d-ec93c925459a.jpeg)
 
 ## Next Steps
 
