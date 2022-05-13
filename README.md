@@ -63,7 +63,7 @@ Notes
 
 Notes
 
-<img src= "figures/price_overtime_background.jpb">
+<img src= "figures/price_overtime_background.jpg">
 
 
 ## Next Steps
