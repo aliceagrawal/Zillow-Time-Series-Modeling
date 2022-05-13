@@ -58,10 +58,18 @@ For our next steps, we would dig deeper into the years that were affected by COV
 ```
  ├── Data
  ├── Images
+ ├── Figures
  ├── gitignore
  ├── Individual Notebooks
- ├── Final_Notebook.ipynb
- └── README.md
- └── Presentation.pdf
- ├──LICENCE
+ │       ├── Alice's Notebook.ipynb
+ │       ├── Hanis-Notebook.ipynb
+ │       ├── Jordan's Notebook.ipynb
+ │       ├── Kyongmin Stuff.ipynb
+ │       ├── Tyler's (Real) Notebook.ipynb
+ ├── Top-5-cities.ipynb
+ ├── starter_notebook.ipynb
+ ├── README.md
+ ├── README Project description.md
+ └──Presentation.pdf
+  
 ```
