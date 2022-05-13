@@ -72,7 +72,7 @@ We used an ARIMA model to forecast the average house price in 10 cities. We scor
 
 Our RMSE score for our final model was approximately $33,500 compared to our baseline RMSE which was $118,000.
 
-<img src= "figures/Original vs Prediced.jpeg">
+<img src= "figures/OriginalvsPrediced.jpeg">
 
 ## Conclusion 
 
@@ -101,8 +101,6 @@ Finally, since this data has been recorded, much has changed in the real estate 
 ## Repository Structure
 ```
  ├── Data
- ├── Images
- ├── Figures
  ├── gitignore
  ├── Individual Notebooks
  │       ├── Alice's Notebook.ipynb
@@ -110,8 +108,8 @@ Finally, since this data has been recorded, much has changed in the real estate 
  │       ├── Jordan's Notebook.ipynb
  │       ├── Kyongmin Stuff.ipynb
  │       ├── Tyler's (Real) Notebook.ipynb
- ├── Top-5-cities.ipynb
- ├── starter_notebook.ipynb
+ ├── figures
+ ├── Final_Notebook-Top-5-Cities.ipynb
  ├── README.md
  ├── README Project description.md
  └── Presentation.pdf
